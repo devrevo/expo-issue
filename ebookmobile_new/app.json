@@ -1,0 +1,48 @@
+{
+
+  "expo": {
+    "name": "Relearn Social",
+    "description": "Relearn Social est la plus grande application de résumés de livres au monde.",
+    "slug": "relearn-social",
+    "privacy": "public",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/icons/app.png",
+    "notification":{
+      "icon":"./assets/icons/iconNotif.png",
+      "color": "#ffffff",
+      "iosDisplayInForeground": true,
+      "androidMode": "default"
+   },
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "assets/fonts/*",
+      "assets/images/icons/*",
+      "src/images/*",
+      "src/Expo/vector-icons/fonts//*"
+    ],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.maxwellconseil.com",
+      "icon":"./assets/icons/iconNotif.png",
+      "buildNumber": "1.0.1"
+    },
+    "android": {
+      "package": "com.relearnsocial.com",
+      "useNextNotificationsApi": true,
+      "icon":"./assets/icons/iconNotif.png",
+      "googleServicesFile": "./google-services.json",
+      "permissions": [],
+      "versionCode": 1
+    }
+  },
+  "updates": {
+    "fallbackToCacheTimeout": 0,
+    "enabled":false
+  },
+  "version": "1.1"
+}

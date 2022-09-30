@@ -1,0 +1,46 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "circleCategory"
+    },
+    {
+      "layout": "bannerHigh",
+      "tag": 273
+    },
+    {
+      
+      "imageBanner": "http://159.65.230.227/wp-content/uploads/2020/12/conflict-resolution-techniques-dealing-with-conflict-workplace.png",
+      "layout": "bannerImage",
+      "height": 118,
+      "category": 5163
+    },
+    {
+      "name": "LatestSummaries",
+      "image": "",
+      "layout": "threeColumn",
+      "category": 5062
+    },
+    {
+      "name": "bagsCollections",
+      "image": "",
+      "layout": "threeColumn",
+      "category": 5061
+    },  
+    {
+      "name": "blog",
+      "image": "",
+      "layout": "threeColumn",
+      "category": 5063
+    },  
+  
+  
+    {
+      "name": "manCollections",
+      "image": "",
+      "layout": "threeColumn",
+      "category": 5163
+    }
+    
+  ],
+  "MainColor": "#3FC1BE"
+}

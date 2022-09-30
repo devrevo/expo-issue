@@ -1,0 +1,40 @@
+{
+    "project_info": {
+      "project_number": "279843164615",
+      "project_id": "iferu-notifications",
+      "storageBucket": "iferu-notifications.appspot.com"
+
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:833978213897:android:16af57118d92a18003bad8",
+          "android_client_info": {
+            "package_name": "com.relearnsocial.com"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "833978213897-7ibfl15d1fsj1irurvsmpv1meg7gmirs.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyDVpDw1r0EoASJrs-skf9cmh_miXqwlrGU"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "833978213897-7ibfl15d1fsj1irurvsmpv1meg7gmirs.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
